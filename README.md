@@ -35,3 +35,15 @@
     <button onclick="window.location.href = 'https://www.google.com';">go to goog</button>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Example</title>
+</head>
+<body>
+    <button onclick="window.location.href = 'https://www.example.com';">Go to Example Website</button>
+</body>
+</html>
