@@ -35,34 +35,3 @@
     <button onclick="window.location.href = 'https://www.google.com';">go to goog</button>
 </body>
 </html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Confetti Explosion</title>
-    <!-- Include confetti-js library -->
-    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.0.1/dist/canvas-confetti.min.js"></script>
-</head>
-<body>
-    <!-- Button to trigger confetti explosion -->
-    <button onclick="explodeConfetti()">Explode Confetti!</button>
-
-    <!-- Script to handle confetti explosion -->
-    <script>
-        function explodeConfetti() {
-            // Configure confetti settings
-            var config = {
-                angle: 90,
-                spread: 360,
-                startVelocity: 40,
-                elementCount: 70,
-                decay: 0.9
-            };
-            // Trigger confetti explosion
-            confetti.create(document.body, config).fire();
-        }
-    </script>
-</body>
-</html>
