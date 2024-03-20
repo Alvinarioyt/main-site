@@ -35,17 +35,3 @@
     <button onclick="window.location.href = 'https://www.google.com';">go to goog</button>
 </body>
 </html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Confetti Example</title>
-</head>
-<body>
-    <canvas id="confettiCanvas"></canvas>
-    <button onclick="confetti.start('confettiCanvas')">Explode Confetti!</button>
-    <script src="confetti.js"></script> <!-- Include the confetti library -->
-</body>
-</html>
