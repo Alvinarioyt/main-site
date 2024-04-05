@@ -13,7 +13,7 @@
     </header>
 
     <main>
-        <p>yahallo! you can find all my websites and ongoing projects! ill try to update everything when i can.</p>
+        <p>yallo! you can find all my websites and ongoing projects! ill try to update everything when i can.</p>
         <!-- Add your main content here -->
     </main>
 
