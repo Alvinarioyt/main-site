@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>main site for all my stuff!! :D</title>
+    <title>main site for all my stuff!! </title>
     <!-- You can add additional meta tags, stylesheets, or scripts in the head section -->
 </head>
 <body>
@@ -18,20 +18,9 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 AlvinarioWorks. All rights reserved.</p>
+        <p>&copy; 2024 HashWorks. All rights reserved.</p>
         <!-- Add your footer content here -->
     </footer>
 
 </body>
-</html>
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>clcik here to go to goog!1!!</title>
-</head>
-<body>
-    <button onclick="window.location.href = 'https://www.google.com';">go to goog</button>
-</body>
-</html>
+</html
