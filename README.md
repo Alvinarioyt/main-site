@@ -29,8 +29,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-‹title>clcik here to go to goog !1!!</title>
+‹title>special dave</title>
 </head>
 <body>
-    <button onclick="w8ndow.location.hef = 'https://www.alvinarioyt.github.io/main-site/specialdavechatbot>
+<button onclick="w8ndow.location.hef = 'https://www.alvinarioyt.github.io/main-site/specialdavechatbot>
 </html>
