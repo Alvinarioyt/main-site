@@ -2,13 +2,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>main site for all my stuff!! </title>
+    <title>main site for all my stuff</title>
     <!-- You can add additional meta tags, stylesheets, or scripts in the head section -->
 </head>
 <body>
 
     <header>
-        <h1>main site for all my stuff!! :D</h1>
+        <h1>main site for all my stuff</h1>
         <!-- Add any header content here -->
     </header>
 
@@ -23,4 +23,14 @@
     </footer>
 
 </body>
+</html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+‹title>clcik here to go to goog !1!!</title>
+</head>
+<body>
+    <button onclick="w8ndow.location.hef = 'https://www.alvinarioyt.github.io/main-site/specialdavechatbot>
 </html>
