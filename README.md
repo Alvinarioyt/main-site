@@ -32,5 +32,5 @@
 <title> special dave </title>
 </head>
 <body>
-<button onclick="window.location.hef = 'https://www.alvinarioyt.github.io/main-site/specialdavechatbot>
+<button onclick="window.location.href = 'https://www.alvinarioyt.github.io/main-site/specialdavechatbot>
 </html>
